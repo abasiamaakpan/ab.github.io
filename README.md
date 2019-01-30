@@ -26,10 +26,10 @@ Load the URL onto your browser,  https://abasiamaakpan.github.io/ab.github.io/
 
 
 ## Author
-https://github.com/abasiamaakpan
+[Abasiama Akpan] https://github.com/abasiamaakpan
 
 ## Class Reference 
-http://johnguerra.co/classes/webDevelopment_spring_2019/
+[Web Development Spring 2019] http://johnguerra.co/classes/webDevelopment_spring_2019/
 
 ## Video Demo
 
