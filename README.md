@@ -3,7 +3,7 @@ Creating a space for expressing my bad web dev skills
 
 ## Preview
 
-[!Resume Preview](https://abasiamaakpan.github.io/ab.github.io/img/Screenshot.png)
+![Resume Preview](https://abasiamaakpan.github.io/ab.github.io/img/Screenshot.png)
 
 **[View Live Preview](https://abasiamaakpan.github.io/ab.github.io/)**
 
