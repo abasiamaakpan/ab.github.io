@@ -1,0 +1,28 @@
+
+#Modalimage{
+  max-height:800px;
+  max-width: 100%;
+}
+
+.form-wrapper{
+  padding: 50px;
+  max-width: 500px;
+}
+
+#CommentsId{
+  height: 100px;
+
+}
+
+#ContactTitle{
+  padding-left: 50px
+}
+
+@media (min-width: 1200px){
+  .container {
+      max-width: 1400px !important;
+  }
+  }
+  #ContactText{
+    padding-left: 50px
+  }
