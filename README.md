@@ -3,9 +3,9 @@ Creating a space for expressing my bad web dev skills
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://abasiamaakpan.github.io/ab.github.io/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://abasiamaakpan.github.io/ab.github.io/)**
 
 ## Tech Requirements
 * HTML5
