@@ -19,9 +19,10 @@ Creating a space for expressing my bad web dev skills
 ## Download, Installation and Usage
 1. Clone the repository on your device
 2. Make sure to have node.js and npm installed on your machine. To install node.js go here https://nodejs.org/en/ and to install npm write this on your terminal sudo npm install -g reload
-3.Then run reload -b in the terminal
-4.
-OR
+3. Then run reload -b in the terminal
+
+**OR**
+
 Load the URL onto your browser,  https://abasiamaakpan.github.io/ab.github.io/
 
 
