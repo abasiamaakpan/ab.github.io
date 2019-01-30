@@ -26,3 +26,12 @@
   #ContactText{
     padding-left: 50px
   }
+@media (min-width: 992px) {
+.fixed-top-right{
+  position: fixed;
+  left: 17rem;
+top: 0;
+right: 0;
+z-index: 1030
+}
+}
