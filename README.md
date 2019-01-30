@@ -8,12 +8,12 @@ Creating a space for expressing my bad web dev skills
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
 ## Tech Requirements
-HTML5
-CSS3
-JavaScript
-Bootstrap
-JQuery
-Git (Github)
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* JQuery
+* Git (Github)
 
 
 ## Download, Installation and Usage
