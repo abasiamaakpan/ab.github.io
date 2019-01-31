@@ -39,4 +39,4 @@ Demo can be found [here](https://www.youtube.com/watch?v=bnSFs15Ew0g&feature=you
 Slides can be found [here](https://docs.google.com/presentation/d/1SefD3K8X__OFmY5Xb6DAsr3CD5TkXMFjPrB4aUL0C0E/edit#slide=id.gc6f80d1ff_0_55)
 
 ## Copyright and License
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
