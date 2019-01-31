@@ -1,5 +1,5 @@
 # [Abasiama's World](https://abasiamaakpan.github.io/ab.github.io/)
-Creating a space for expressing my bad web dev skills
+Creating a space for expressing my bad (but improving) web dev skills
 
 ## Preview
 
