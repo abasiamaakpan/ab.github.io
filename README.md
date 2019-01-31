@@ -18,12 +18,12 @@ Creating a space for expressing my bad web dev skills
 
 ## Download, Installation and Usage
 1. Clone the repository on your device
-2. Make sure to have node.js and npm installed on your machine. To install node.js go here https://nodejs.org/en/ and to install npm write this on your terminal sudo npm install -g reload
+2. Make sure to have node.js and npm installed on your machine. To install node.js go [here] https://nodejs.org/en/ and to install npm write this on your terminal sudo npm install -g reload
 3. Then run reload -b in the terminal
 
 **OR**
 
-Load the URL onto your browser,  https://abasiamaakpan.github.io/ab.github.io/
+Load the [URL](https://abasiamaakpan.github.io/ab.github.io/) onto your browser, 
 
 
 ## Author
@@ -33,10 +33,10 @@ Load the URL onto your browser,  https://abasiamaakpan.github.io/ab.github.io/
 [Web Development Spring 2019](http://johnguerra.co/classes/webDevelopment_spring_2019/)
 
 ## Video Demo
+Demo can be found [here](https://www.youtube.com/watch?v=bnSFs15Ew0g&feature=youtu.be)
 
-## Google URL
-
+## Google Slides URL
+Slides can be found [here](https://docs.google.com/presentation/d/1SefD3K8X__OFmY5Xb6DAsr3CD5TkXMFjPrB4aUL0C0E/edit#slide=id.gc6f80d1ff_0_55)
 
 ## Copyright and License
-
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
