@@ -35,6 +35,10 @@ right: 0;
 z-index: 1030
 }
 }
+img {
+border:1px solid #021a40;
+margin-bottom: 20px;
+}
 
 .social-icons-contact{
   padding: 50px;
