@@ -33,21 +33,10 @@
   </head>
 
   <body id="page-top">
-    <nav class="navbar navbar-light bg-light fixed-top-right">
-      <div class="container">
-      <a class="navbar-brand" href="index.html">Home</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarText">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-    </nav>
+
+    <!-- I would not recommend you using two navigation bars in this way.  I moved your contact into the sidebar navigation instead.
+         This is a bit more of a suggestion than anything.  You could also style the other contact link differently or even create a
+         line between the gallery li and contact li to make them more distinctly different.  Ask me in person if you have more questions. -->
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
@@ -82,6 +71,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#gallery">Gallery</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
         </ul>
       </div>
     </nav>
@@ -94,7 +86,9 @@
             <span class="text-primary">Akpan</span>
           </h1>
           <div class="subheading mb-5">4500 The Woods Dr · San Jose, CA 95136 · 3252329598 ·
-            <a href="mailto:name@email.com">abasiamaakpan13@gmail.com</a>
+            <!-- in the href this had a placeholder of name@email.com so when you clicked the link it would open an email with a to of name@email.com.
+                 With the below change, it now opens the default email client and inputs your email into the to field automatically. -->
+            <a href="mailto:abasiamaakpan13@gmail.com">abasiamaakpan13@gmail.com</a>
           </div>
           <p class="lead mb-5">I am a solution-oriented and data-driven individual who would like to make a reasonable contribution to whatever project you or your company is involved in. On a mission to broaden my technical skills to be more competitive in the workforce. Aside from my career goals, I enjoy conducting research into sustainable energy provision on a global scale. I am excited for the future of energy</p>
           <div class="social-icons">
@@ -104,7 +98,8 @@
             <a href="https://github.com/abasiamaakpan">
               <i class="fab fa-github"></i>
             </a>
-            <a href="https://twitter.com/">
+            <!-- You should link to your own twitter so people don't have to search like the other 3 links, otherwise remove this element -->
+            <a href="https://twitter.com/Abasiam69205291">
               <i class="fab fa-twitter"></i>
             </a>
             <a href="https://www.facebook.com/abasiama.akpan.5">
@@ -209,11 +204,12 @@
             <li class="list-inline-item">
               <i class="devicon-c-plain"></i>
             </li>
-            <li class="list-inline-item">
-              <i class="devicon-java-plain"></i>
-            </li>
+            <!-- think it looks better with c and c++ next to each other -->
             <li class="list-inline-item">
               <i class="devicon-cplusplus-plain"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-java-plain"></i>
             </li>
 
           </ul>
