@@ -39,12 +39,16 @@
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none">Abasiama Akpan</span>
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
+          <!-- missing alt tag for accessibility and if picture is missing -->
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="Head shot of Abasiama Akpan">
         </span>
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
+
+      <!--  Your links all direct you back to index.html at the top of the page even though you clicked some other link. If you add the hash and the   
+            id it works like it did on the main index.html nav links. Check out the behavior after these changes. -->
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
@@ -68,7 +72,7 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="index.html#gallery">Gallery</a>
           </li>
-          <!-- same change made on this page to reflect changes made in the index.html -->
+          <!-- same change made on this page to reflect changes made in the index.html
           <li class="nav-item">
             <a class="nav-link" href="contact.html">Contact</a>
           </li>
