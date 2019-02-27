@@ -2,7 +2,7 @@
 Creating a space for expressing my bad (but improving) web dev skills
 
 ## Credit 
-Template was used and can be found [here](https://startbootstrap.com/themes/resume/) 
+Template used can be found [here](https://startbootstrap.com/themes/resume/) 
 
 ## Preview
 
