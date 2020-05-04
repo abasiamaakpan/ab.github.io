@@ -1,6 +1,9 @@
 # [Abasiama's World](https://abasiamaakpan.github.io/ab.github.io/)
 Creating a space for expressing my bad (but improving) web dev skills
 
+## Credit 
+Template used can be found [here](https://startbootstrap.com/themes/resume/) 
+
 ## Preview
 
 ![Resume Preview](https://abasiamaakpan.github.io/ab.github.io/img/Screenshot.png) 
